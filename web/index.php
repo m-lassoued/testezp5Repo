@@ -8,7 +8,7 @@ use Symfony\Component\Debug\Debug;
 $environment = getenv( "ENVIRONMENT" );
 if ( $environment === false )
 {   
-    //test
+    //test change for commit :)
     $environment = "prod";
 }
 

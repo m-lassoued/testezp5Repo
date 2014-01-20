@@ -1,0 +1,6 @@
+/web/bundles/
+/ezpublish/bootstrap*
+/ezpublish/cache/*
+/ezpublish/logs/*
+/vendor/
+/ezpublish/config/ezpublish.yml

@@ -1,0 +1,8 @@
+[ Jan 17 2014 15:45:10 ] [127.0.0.1] index:
+Undefined module: fre
+[ Jan 17 2014 15:45:11 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index.php/fre
+[ Jan 17 2014 16:09:17 ] [127.0.0.1] index:
+Undefined module: fre
+[ Jan 17 2014 16:09:17 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /ez5test/web/index.php/fre

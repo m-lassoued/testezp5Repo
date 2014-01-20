@@ -1,0 +1,138 @@
+[ Jan 17 2014 15:45:10 ] [127.0.0.1] index:
+Undefined module: fre
+[ Jan 17 2014 15:45:11 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index.php/fre
+[ Jan 17 2014 16:09:17 ] [127.0.0.1] index:
+Undefined module: fre
+[ Jan 17 2014 16:09:17 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /ez5test/web/index.php/fre
+[ Jan 17 2014 17:08:09 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:08:10 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/ccc878
+[ Jan 17 2014 17:08:25 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:08:25 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/ccc878
+[ Jan 17 2014 17:08:27 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:08:27 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/ef1263
+[ Jan 17 2014 17:08:30 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:08:30 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/ef1263
+[ Jan 17 2014 17:08:32 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:08:32 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/ba9921
+[ Jan 17 2014 17:08:34 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:08:34 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/ba9921
+[ Jan 17 2014 17:08:36 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:08:36 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/511c3a
+[ Jan 17 2014 17:08:46 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:08:46 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/511c3a
+[ Jan 17 2014 17:08:48 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:08:48 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/23b747
+[ Jan 17 2014 17:09:15 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:09:15 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/806f53
+[ Jan 17 2014 17:10:25 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:10:25 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/30bb80
+[ Jan 17 2014 17:10:43 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:10:43 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/30bb80
+[ Jan 17 2014 17:10:44 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:10:44 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/8ca91e
+[ Jan 17 2014 17:10:52 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:10:52 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/f6d4af
+[ Jan 17 2014 17:15:48 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:15:49 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/5b91ff
+[ Jan 17 2014 17:15:59 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:16:00 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/5b91ff
+[ Jan 17 2014 17:16:01 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:16:01 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/7f7c6f
+[ Jan 17 2014 17:16:08 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:16:08 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/7f7c6f
+[ Jan 17 2014 17:16:09 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:16:10 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/019b55
+[ Jan 17 2014 17:16:24 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:16:24 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/019b55
+[ Jan 17 2014 17:16:26 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:16:26 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/7b1ec3
+[ Jan 17 2014 17:16:35 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:16:35 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/7b1ec3
+[ Jan 17 2014 17:16:37 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:16:37 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/40bf41
+[ Jan 17 2014 17:17:16 ] [127.0.0.1] index:
+Undefined module: _profiler
+[ Jan 17 2014 17:17:16 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_profiler/40bf41
+[ Jan 17 2014 17:17:18 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:17:18 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/c4dd06
+[ Jan 17 2014 17:24:02 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index.php/eng/shop/add/74/1
+[ Jan 17 2014 17:33:25 ] [127.0.0.1] eZSMTPTransport::sendMail:
+An error occured while sending or receiving mail. Failed to connect to the smtp server: :25.
+[ Jan 17 2014 17:33:26 ] [127.0.0.1] eZSMTPTransport::sendMail:
+An error occured while sending or receiving mail. Failed to connect to the smtp server: :25.
+[ Jan 17 2014 17:37:56 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:37:56 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/e62918
+[ Jan 17 2014 17:49:58 ] [127.0.0.1] eZMySQLiDB:
+Query error (1146): Table 'ezdemo.eztags' doesn't exist. Query: SELECT id, parent_id, main_tag_id, keyword, depth, path_string, modified,       remote_id
+                    FROM   eztags WHERE  main_tag_id='0' ORDER BY modified DESC
+LIMIT 0, 10
+[ Jan 17 2014 17:50:33 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:50:33 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/7d370e
+[ Jan 17 2014 17:52:10 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:52:10 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/f08eef
+[ Jan 17 2014 17:52:25 ] [127.0.0.1] index:
+Undefined module: _wdt
+[ Jan 17 2014 17:52:25 ] [127.0.0.1] error/view.php:
+Error ocurred using URI: /testezp/web/index_dev.php/_wdt/e934cc
+[ Jan 17 2014 17:53:49 ] [127.0.0.1] eZMySQLiDB:
+Query error (1146): Table 'ezdemo.eztags' doesn't exist. Query: SELECT id, parent_id, main_tag_id, keyword, depth, path_string, modified,       remote_id
+                    FROM   eztags WHERE  main_tag_id='0' ORDER BY modified DESC
+LIMIT 0, 10

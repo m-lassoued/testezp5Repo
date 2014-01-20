@@ -1,0 +1,4 @@
+parameters:
+    secret: f5c23dd0ccfb25be5fdc815cddc54c5d8f56ea61
+    locale_fallback: en
+    ezpublish_legacy.default.view_default_layout: 'eZDemoBundle::pagelayout.html.twig'

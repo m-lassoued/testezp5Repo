@@ -1,0 +1,255 @@
+Bugfixes
+========
+
+eZ Publish Kernel & APIs
+------------------------
+- EZP-21633: [Behat] Error when connecting to DB
+
+eZ Publish Legacy Stack (LS)
+----------------------------
+- EZP-19077: ezjscore fatal error encoding object w/out a node
+- EZP-20813: Added NFS mount checks in dfscleanup.php
+- EZP-21324: Images for original object lost when editing copies
+- EZP-21563: Fatal error in eZContentUpload if no node
+- EZP-21585: ORA-12899 when creating content in japanese
+- EZP-21588: error in copy with split dfs tables
+- EZP-21619: Updated INI doc for redirectAfterPublish feature
+- EZP-21648: added priority and is_hidden columns to eznode_assignment table
+- EZP-21656: PSpell plugin fails with eZFormToken
+- EZP-21685: Selection attribute fail in ContentStaging with value Zero
+- EZP-21731: Some parts of eZ Publish use a loose test for checking for SSL
+- EZP-21735: fixed using non existent variable
+- EZP-21740: Added DFS cluster DB update script
+- EZP-21758: Custom variables are not correctly exposed in legacy templates when doing a sub-request
+- EZP-21807: link is duplicated on table row insertion
+- EZP-21818: fix translation starting with new line
+- EZP-21883: Regression from ezp-21357 with images with utf-8 names
+- EZP-21903: Copy & paste with chrome insert non break space
+- EZP-21913: Fixed globals for scripts
+- EZP-21914: reset ezcDb link from ezasynchronouspublishing.php
+- EZP-21919: editing workflows concurrently in 2 browser windows makes them disappear
+
+eZ Publish 5
+------------
+- EZP-20505: Catch exception on invalid binary in FieldTypes
+- EZP-21032: documented is_logged_in for REST sessions
+- EZP-21344: error in create view REST spec example
+- EZP-21438: Improve permission handling to use view_embed
+- EZP-21548: Clear role assignments cache when dealing with locations
+- EZP-21591: Fixed wrong variable name
+- EZP-21628: Symfony routes overriding URLAliases in admin
+- EZP-21636: Hinclude sub-requests are broken since EZP-21631 fix
+- EZP-21648: added priority and is_hidden columns to eznode_assignment table
+- EZP-21668: content.tree_root.location_id default value should not be null
+- EZP-21674: implement Status Limitation
+- EZP-21684: Bug when creating forward url alias
+- EZP-21695: Cached ESI can not be shared among pages
+- EZP-21696: new SubtreeLimitation fails w/ InvalidArgumentException Fixed the same bug in tests
+- EZP-21700: add language code to SortClause FieldTarget
+- EZP-21703: added validation of role limitations
+- EZP-21705: Wrong links generated when using Map\Host siteaccess matching
+- EZP-21722: Error with the ez_render_field if a custom tag xsl stylesheet is not properly loaded
+- EZP-21734: apply sorting to prevent random test failures
+- EZP-21741: Persistence cache not cleared on transaction rollback
+- EZP-21747: Translated name should be accessible from ContentInfo
+- EZP-21776: fix Criterion value not bound
+- EZP-21780: Map\URI siteaccess matcher is greedy
+- EZP-21786: Using Page fieldtype, valid block items should be passed to the block templates
+- EZP-21804: create untranslatable field copy from translation value
+- EZP-21834: allow overriding/extending ezpublish.siteaccess.match in yml files.
+- EZP-21840: unwanted "shebang" line running ezpublish:legacy:script
+- EZP-21845: Trashed locations still in persistence cache & accessible in API
+- EZP-21853: Custom HTTP headers create duplicate values
+- EZP-21854: Default ezgmaplocation_field template defines a wrong height
+- EZP-21861: fixed leading slash when creating under root node
+- EZP-21870: : wrong CriterionLogicalAnd instanciation
+- EZP-21873: Unable to use ez_render_field with ezgmaplocation_field
+- EZP-21874: test limitation on draft Content as well
+- EZP-21876: Compound matcher throws fatal error after patch from EZP-21834
+- EZP-21904: handle deletion of Content with last Location
+- EZP-21914: Added set/getDbHandler to Legacy\EzcDbHandler
+- EZP-21916: basic auth in http cache purge_servers
+- EZP-21920: do not raise exception on loadRelations
+- EZP-21933: [SensioLabsInsight] Unused method, property, variable or parameter
+- EZP-21934: [SensioLabsInsight] Boolean property should not be prefixed by "is"
+- EZP-21949: Added coverage for AddFIeldTypePass
+- EZP-21955: Access to restricted content results in error 500
+- EZP-21958: Added coverage for Common config parser
+- EZP-21967: Fixed Country\Type::getName()
+- EZP-21968: Binary field types getName() should always return a string
+- EZP-21970: reset array before calling key()
+- EZP-21971: return first alias if using showAllTranslations
+
+Enhancements
+============
+
+eZ Publish Kernel & APIs
+------------------------
+- EZP-21526: Added commentsBundle to dependencies
+- EZP-21723: As a developer, I want to use PagerFanta to do my pagination
+
+eZ Publish Legacy Stack (LS)
+----------------------------
+- EZP-16144: Implement '--quiet' option in ezpgenerateautoloads.php script
+- EZP-21844: Added split DFS cleanup script
+
+eZ Publish 5
+------------
+- EZP-21326: Remove Status Criterion as it is irrelevant
+- EZP-21531: Twig ContentExtension, s/getContentNameTranslated/getTranslatedContentName
+- EZP-21640: Implement RelationList search criterion
+- EZP-21676: As a developer, I want to access a field value in the current locale in a Twig template
+- EZP-21677: As a developer, I want to always have access to root location
+- EZP-21680: As a developer, I want to easily check if a Field is empty
+- EZP-21701: ez_render_field should be able to use current template as parameter
+- EZP-21706: removed REST spec generated HTML
+- EZP-21719: implemented Depth criterion
+- EZP-21723: As a developer, I want to use PagerFanta to do my pagination
+- EZP-21733: implemented LimitationValidationException
+- EZP-21793: add matchAlwaysAvailable to LanguageCode Criterion
+- EZP-21865: Add showInfo parameter for ezgmaplocation field type base template
+- EZP-21910: set default Content states when copying subtree
+- EZP-21924: [SensioLabsInsight] Refactor LegacyKernelController to be less than 20 lines
+- EZP-21928: [SensioLabsInsight] Unused use statement should be avoided
+- EZP-21961: Added tests to FieldType\Author
+- EZP-21964: complete test coverage
+
+Pull requests
+=============
+
+eZ Publish Kernel & APIs
+------------------------
+- 77: from MLoureiro
+- 84: from ezsystems
+
+eZ Publish Legacy Stack (LS)
+----------------------------
+- 759: from jeromegamez
+- 771: from ezsystems
+- 777: from ezsystems
+- 778: from ezsystems
+- 780: from ezsystems
+- 786: from guillaumelecerf
+- 806: from tharkun
+- 807: from guillaumelecerf
+- 815: from ezsystems
+- 817: from pedroresende
+- 818: from joaoinacio
+- 820: from ezsystems
+- 824: from ezsystems
+- 825: from ezsystems
+- 831: from ezsystems
+- 832: from ezsystems
+- 833: from gggeek
+
+eZ Publish 5
+------------
+- 473: from ezsystems
+- 483: from MLoureiro
+- 490: from joaoinacio
+- 520: from ezsystems
+- 536: from ezsystems
+- 537: from ezsystems
+- 538: from ezsystems
+- 542: from ezsystems
+- 543: from ezsystems
+- 546: from ezsystems
+- 547: from taenadil
+- 548: from ezsystems
+- 550: from ezsystems
+- 551: from ezsystems
+- 552: from ezsystems
+- 553: from ezsystems
+- 556: from ezsystems
+- 561: from ezsystems
+- 562: from ezsystems
+- 565: from ezsystems
+- 567: from ezsystems
+- 568: from ezsystems
+- 569: from ezsystems
+- 572: from ezsystems
+- 576: from joaoinacio
+- 578: from joaoinacio
+- 579: from ezsystems
+- 581: from paradoxe
+- 582: from lserwatka
+- 583: from ezsystems
+- 584: from ezsystems
+- 585: from lserwatka
+- 590: from pedroresende
+- 591: from ezsystems
+- 592: from ezsystems
+- 595: from ezsystems
+- 596: from ezsystems
+- 599: from joaoinacio
+- 602: from ezsystems
+- 603: from MLoureiro
+- 605: from ezsystems
+- 608: from ezsystems
+- 610: from ezsystems
+- 612: from ezsystems
+- 617: from ezsystems
+- 618: from joaoinacio
+- 621: from ezsystems
+- 622: from MLoureiro
+- 623: from pborreli
+- 624: from ezsystems
+- 627: from ezsystems
+- 628: from ezsystems
+
+Miscellaneous
+=============
+
+eZ Publish Kernel & APIs
+------------------------
+- Update UPGRADE.md
+- Update INSTALL_ARCHIVE.md
+- Add a Browser layer for BDD tests
+- Updated symfony-cmf/routing dependency to 1.1.* stable
+
+eZ Publish Legacy Stack (LS)
+----------------------------
+- Updated translations
+- Add basic tests for eZSys::isSSLNow() and eZSys::serverProtocol()
+- Revert "Fixed YUI 3.12.0"
+- Fix eZURLWildcard: wildcardsIndex is never cached
+
+eZ Publish 5
+------------
+- Fixed strict errors in FieldType tests
+- EZP21289: Add integration test
+- Ezp21920: Add integration test
+- Fix extra directory slash in phpunit-integration-legacy.xml
+- Added Helper and Pagination to phpunit.xml
+- Added SensioLabsInsight badge to Readme.md
+- Tests: added missing @covers
+- Fix SensioLabsInsight 'Version of dependencies should be fixed'
+- Remove .idea from .gitignore
+- Fix SensioLabsInsight violation: removed remaining commented code
+- Fix SensioLabsInsight major: Commented code should not be commited
+- Fix SensioLabsInsight use statement errors (static analysis)
+- Fix SensioLabsInsight critical issue on unused code..
+- Fix coverage failure by RoleTest::testCreateRoleThrowsLimitationValidationException()
+- Fixed: wrong dependency causing 2 skipped tests
+- Implement CriterionVisitor\UserMetadataIn for Solr
+- Make sure that string search is case insensitive in Solr
+- Change SetupFactory/LegacySolr db indexing to batch update and commit at the end
+- Change SetupFactory/LegacySolr to use CachedPersistence for lookups
+- [PHPDoc] Add missing type hint and phpdoc in SetupFactory/LegacySolr
+- Update travis-solr.sh from upstream and rebase
+- Re enable Solr tests
+- [Integration Tests] Avoid reinitialization of repo if not used by test
+- Updated: more precise exception message
+- fix ezxml link class attribute rendering
+- Add todo on transaction handling in regards to Persistence cache
+- Updated symfony-cmf/routing dependency to 1.1.* stable
+- Fixed: create policy resource and method
+- Updated: improve test fixtures
+- Remove @covers \eZ\Publish\Core\Limitation\StatusLimitationType::__construct
+- PageService: fixed uninitialized variable
+- Enable persistence cache on integration tests
+- Removed unneeded composer.lock
+- Fix: Remaining test coverage use of Status Criterion
+- Remove invailid todo, fixed in c1b3cc1
+- Replaced mock usage of Request object. Used real Request object instead.
+- ETP-21648: tested Location visibility when creating from assignment

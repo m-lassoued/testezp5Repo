@@ -1,0 +1,127 @@
+a:10:{s:7:"content";s:5596:"
+
+
+<section class="content-view-full">
+    <article class="class-product row">
+        <div class="span8">
+                            <div class="attribute-image full-head">
+                    
+
+    
+        
+    
+                                                                                                                                            <img src="/testezp/web/var/ezdemo_site/storage/images/shopping/products/ez-publish-community-iphone-4-case/341-1-eng-GB/eZ-Publish-Community-iPhone-4-Case_productimage.jpg" width="512" height="512"  style="border: 0px  ;" alt="Case Savvy iPhone 4 Matte Finish Case" title="Case Savvy iPhone 4 Matte Finish Case" />
+            
+    
+    
+    
+                                            <div class="attribute-caption">
+                            
+<p>Case Savvy iPhone 4 Matte Finish Case</p>                        </div>
+                                    </div>
+            
+            <div class="attribute-short">
+               
+<p>Protect your iPhone 4 with a customizable iPhone 4 case.</p>            </div>
+
+            <div class="attribute-long">
+               
+<p>Made of lightweight hard shell plastic, this case protects the back and sides of your iPhone 4 without adding bulk. Made with a matte finish, your designs, photos, and text will look great displayed on this one of a kind case.</p>
+<ul>
+
+<li>Designed for Apple’s iPhone 4.</li>
+
+<li>Hard shell plastic case with matte finish.</li>
+
+<li>Access to all ports, controls &amp; sensors.</li>
+
+<li>Customize with photos, artwork and text.</li>
+
+</ul>
+            </div>
+
+            
+                                    
+           
+                                         </div>
+        <div class="span4">
+            <aside>
+                <section class="content-view-aside">
+                    <div class="product-main">
+                        <div class="attribute-header">
+                            <h2>eZ Publish Community - iPhone 4 Case</h2>
+                            <span class="subheadline">
+</span>
+                        </div>
+                        <article>
+                            <form method="post" action="/testezp/web/index.php/eng/content/action">
+                                <fieldset class="row">
+                                    <div class="item-price span4">
+                                                                            £ 35.95
+                                                                        </div>
+                                    <div class="span4">
+                                        <div class="block">
+Style option
+</div>
+<div class="block">
+<label>:</label>
+<select name="eZOption[343][]">
+                                                    <option value="1" selected="selected">Glossy</option>
+                                                                                    <option value="2">Matt</option>
+                                        </select>
+</div>                                    </div>
+                                    <div class="item-buying-action form-inline span4">
+                                        <label>
+                                            <span class="hidden">Amount</span>
+                                            <input type="text" name="Quantity" />
+                                        </label>
+                                        <button class="btn btn-warning" type="submit" name="ActionAddToBasket">
+                                        Add to basket
+                                        </button>
+                                    </div>
+                                </fieldset>
+                                <input type="hidden" name="ContentNodeID" value="76" />
+                                <input type="hidden" name="ContentObjectID" value="74" />
+                                <input type="hidden" name="ViewMode" value="full" />
+                            </form>
+                        </article>
+                        <div class="attribute-socialize">
+                            <div class="social-button">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="ezpublish">Tweet</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div class="social-button">
+    <div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+
+    <div id="fb-root"></div>
+    
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+</div>
+<div class="social-button">
+    <div class="g-plusone" data-size="medium"></div>
+
+    <script type="text/javascript">
+        
+        (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+        
+    </script>
+</div>
+                        </div>
+                    </div>
+                </section>
+            </aside>
+        </div>
+   </article>
+</section>
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:4:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:8:"Shopping";s:3:"url";s:21:"/content/view/full/74";s:9:"url_alias";s:8:"Shopping";s:7:"node_id";s:2:"74";}i:2;a:4:{s:4:"text";s:8:"Products";s:3:"url";s:21:"/content/view/full/75";s:9:"url_alias";s:17:"Shopping/Products";s:7:"node_id";s:2:"75";}i:3;a:4:{s:4:"text";s:36:"eZ Publish Community - iPhone 4 Case";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"76";}}s:10:"title_path";a:4:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:8:"Shopping";s:3:"url";s:21:"/content/view/full/74";s:9:"url_alias";s:8:"Shopping";s:7:"node_id";s:2:"74";}i:2;a:4:{s:4:"text";s:8:"Products";s:3:"url";s:21:"/content/view/full/75";s:9:"url_alias";s:17:"Shopping/Products";s:7:"node_id";s:2:"75";}i:3;a:3:{s:4:"text";s:36:"eZ Publish Community - iPhone 4 Case";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"76";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"74";s:7:"node_id";s:2:"76";s:14:"parent_node_id";s:2:"75";s:8:"class_id";s:2:"21";s:16:"class_identifier";s:7:"product";s:9:"remote_id";s:32:"19e07e67927891a6f26a3c7996438c2f";s:14:"node_remote_id";s:32:"a1db085c4b30f728a063da72b4cf077d";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"4";s:9:"url_alias";s:52:"Shopping/Products/eZ-Publish-Community-iPhone-4-Case";s:16:"current_language";s:6:"eng-GB";s:13:"language_mask";s:1:"2";s:12:"main_node_id";s:2:"76";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:2:{s:9:"left_menu";b:0;s:10:"extra_menu";b:0;}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"c07971827e6e6cdbb9ab4e65a1ca7634";s:23:"parent_object_remote_id";s:32:"88ebdebc4d5e55ebe841c50a92882961";}s:13:"template_list";a:9:{i:0;s:66:"extension/ezdemo/design/ezdemo/override/templates/full/product.tpl";i:1;s:59:"design/standard/templates/content/datatype/view/ezimage.tpl";i:2;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:3;s:86:"extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:8;s:64:"design/standard/templates/content/datatype/view/ezxmltags/li.tpl";i:12;s:64:"design/standard/templates/content/datatype/view/ezxmltags/ul.tpl";i:13;s:60:"design/standard/templates/content/datatype/view/ezstring.tpl";i:14;s:80:"extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezmultioption.tpl";i:15;s:65:"extension/ezdemo/design/ezdemo/templates/parts/social_buttons.tpl";}s:9:"cache_ttl";i:-1;}
